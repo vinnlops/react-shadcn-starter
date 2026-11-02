@@ -28,10 +28,6 @@ html {
     box-sizing: border-box;
 }
 
-main {
-    display: flex;
-}
-
 *,
 *::before,
 *::after {
